@@ -11,4 +11,4 @@ Bu depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 
 -[İlk progmamım](kodlar/merhaba.py)
 
-[SAKARYA ÜNİVERSİTESİ](saülogo.jpg)
+![SAKARYA ÜNİVERSİTESİ](saülogo.jpg)
